@@ -6,6 +6,9 @@ further by removing the output strings.)
 The test functions by finding prime numbers via brute force. The program starts at 2 then tests 
 every integer by attempting to divide that number with every integer from 2 to the square root 
 of the number. If none of the divisors result in a remainder of 0, the number is prime.
+I could of skipped every even number as they can never be prime but that wouldn't of improved 
+the integrity of the test. Make sure to choose the same test duration for each of your tests 
+as the difficulty to find a prime increases.
 
 RESULTS:
 
